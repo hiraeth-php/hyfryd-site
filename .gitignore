@@ -1,0 +1,4 @@
+.env
+vendor
+opus.map
+node_modules

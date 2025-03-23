@@ -1,0 +1,11 @@
+{% extends '@vendor/hiraeth/hyfryd/resources/pages/@index.html' %}
+
+{% block head %}
+    <style>
+        {% include '@vendor/tempest/highlight/src/Themes/Css/' ~ hyfryd.theme.syntax.light ~ '.css' %}
+    </style>
+
+    <style media="(prefers-color-scheme: dark)">
+        {% include '@vendor/tempest/highlight/src/Themes/Css/' ~ hyfryd.theme.syntax.dark ~ '.css' %}
+    </style>
+{% endblock %}
