@@ -369,12 +369,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dotink/slashtrace.git",
-                "reference": "89be1a440d0857725ff3ab8f176dd3afb1ac974d"
+                "reference": "66c9e6881c413d4302fced0e5a8532a1eb7cb842"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dotink/slashtrace/zipball/89be1a440d0857725ff3ab8f176dd3afb1ac974d",
-                "reference": "89be1a440d0857725ff3ab8f176dd3afb1ac974d",
+                "url": "https://api.github.com/repos/dotink/slashtrace/zipball/66c9e6881c413d4302fced0e5a8532a1eb7cb842",
+                "reference": "66c9e6881c413d4302fced0e5a8532a1eb7cb842",
                 "shasum": ""
             },
             "require": {
@@ -411,7 +411,7 @@
             "support": {
                 "source": "https://github.com/dotink/slashtrace/tree/3.0-beta"
             },
-            "time": "2025-03-22T16:13:58+00:00"
+            "time": "2025-03-23T15:39:52+00:00"
         },
         {
             "name": "hiraeth/actions",
@@ -419,12 +419,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hiraeth-php/actions.git",
-                "reference": "7ebb249cac0e0593f704f8933d26307db4eeef60"
+                "reference": "90e1e17318e651cc6adb42cf43b9e11762183079"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hiraeth-php/actions/zipball/7ebb249cac0e0593f704f8933d26307db4eeef60",
-                "reference": "7ebb249cac0e0593f704f8933d26307db4eeef60",
+                "url": "https://api.github.com/repos/hiraeth-php/actions/zipball/90e1e17318e651cc6adb42cf43b9e11762183079",
+                "reference": "90e1e17318e651cc6adb42cf43b9e11762183079",
                 "shasum": ""
             },
             "require": {
@@ -436,7 +436,7 @@
                 "hiraeth/routing": "^3.0",
                 "hiraeth/session": "^3.0",
                 "hiraeth/templates": "^3.0",
-                "phpstan/phpstan": "^1.0",
+                "phpstan/phpstan": "^2.0",
                 "phpunit/phpunit": "^10.0"
             },
             "type": "opus-package",
@@ -469,7 +469,7 @@
                 "issues": "https://github.com/hiraeth-php/actions/issues",
                 "source": "https://github.com/hiraeth-php/actions/tree/3.0-beta"
             },
-            "time": "2025-03-23T02:05:58+00:00"
+            "time": "2025-03-23T13:19:24+00:00"
         },
         {
             "name": "hiraeth/commonmark",
@@ -477,12 +477,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hiraeth-php/commonmark.git",
-                "reference": "a720adabbc3142ab6b705f766bc9cc18c2f8a099"
+                "reference": "8ce10631d19d0781c5a6f9dbcf5d8077edb8f73f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hiraeth-php/commonmark/zipball/a720adabbc3142ab6b705f766bc9cc18c2f8a099",
-                "reference": "a720adabbc3142ab6b705f766bc9cc18c2f8a099",
+                "url": "https://api.github.com/repos/hiraeth-php/commonmark/zipball/8ce10631d19d0781c5a6f9dbcf5d8077edb8f73f",
+                "reference": "8ce10631d19d0781c5a6f9dbcf5d8077edb8f73f",
                 "shasum": ""
             },
             "require": {
@@ -527,7 +527,7 @@
                 "issues": "https://github.com/hiraeth-php/commonmark/issues",
                 "source": "https://github.com/hiraeth-php/commonmark/tree/3.0-beta"
             },
-            "time": "2024-03-15T19:15:14+00:00"
+            "time": "2025-03-23T13:23:02+00:00"
         },
         {
             "name": "hiraeth/core",
@@ -535,12 +535,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hiraeth-php/core.git",
-                "reference": "25453b05dd734f14fdc21ffb06cdda8bb897a870"
+                "reference": "e772d1a8ff74d798a21f41419cc7cdfbbfc3f8ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hiraeth-php/core/zipball/25453b05dd734f14fdc21ffb06cdda8bb897a870",
-                "reference": "25453b05dd734f14fdc21ffb06cdda8bb897a870",
+                "url": "https://api.github.com/repos/hiraeth-php/core/zipball/e772d1a8ff74d798a21f41419cc7cdfbbfc3f8ce",
+                "reference": "e772d1a8ff74d798a21f41419cc7cdfbbfc3f8ce",
                 "shasum": ""
             },
             "require": {
@@ -587,7 +587,7 @@
                 "issues": "https://github.com/hiraeth-php/core/issues",
                 "source": "https://github.com/hiraeth-php/core/tree/3.0-beta"
             },
-            "time": "2025-03-22T16:46:27+00:00"
+            "time": "2025-03-23T15:41:51+00:00"
         },
         {
             "name": "hiraeth/diactoros",
@@ -711,12 +711,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hiraeth-php/http.git",
-                "reference": "2caf0bd94e05ffa816b592ad15308e67757d9429"
+                "reference": "93e79a8adb9957d87294b5d893546e3982c7fbc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hiraeth-php/http/zipball/2caf0bd94e05ffa816b592ad15308e67757d9429",
-                "reference": "2caf0bd94e05ffa816b592ad15308e67757d9429",
+                "url": "https://api.github.com/repos/hiraeth-php/http/zipball/93e79a8adb9957d87294b5d893546e3982c7fbc2",
+                "reference": "93e79a8adb9957d87294b5d893546e3982c7fbc2",
                 "shasum": ""
             },
             "require": {
@@ -761,7 +761,7 @@
                 "issues": "https://github.com/hiraeth-php/http/issues",
                 "source": "https://github.com/hiraeth-php/http/tree/3.0-beta"
             },
-            "time": "2025-03-22T17:01:07+00:00"
+            "time": "2025-03-23T15:35:34+00:00"
         },
         {
             "name": "hiraeth/hyfryd",
@@ -769,12 +769,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hiraeth-php/hyfryd.git",
-                "reference": "34fb2bb323ca16d155211ca7d6a307fd1ac7632b"
+                "reference": "7a5909ca5816a6789623c0b9254015ff51a05747"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hiraeth-php/hyfryd/zipball/34fb2bb323ca16d155211ca7d6a307fd1ac7632b",
-                "reference": "34fb2bb323ca16d155211ca7d6a307fd1ac7632b",
+                "url": "https://api.github.com/repos/hiraeth-php/hyfryd/zipball/7a5909ca5816a6789623c0b9254015ff51a05747",
+                "reference": "7a5909ca5816a6789623c0b9254015ff51a05747",
                 "shasum": ""
             },
             "require": {
@@ -818,9 +818,9 @@
             "description": "A view-first component-based application framework",
             "support": {
                 "issues": "https://github.com/hiraeth-php/hyfryd/issues",
-                "source": "https://github.com/hiraeth-php/hyfryd/tree/master"
+                "source": "https://github.com/hiraeth-php/hyfryd/tree/3.0-beta"
             },
-            "time": "2025-03-23T02:21:44+00:00"
+            "time": "2025-03-23T23:50:44+00:00"
         },
         {
             "name": "hiraeth/json",

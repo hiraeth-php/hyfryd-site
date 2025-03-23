@@ -34,13 +34,3 @@
 	extensions = [
 		"Tempest\Highlight\CommonMark\HighlightExtension"
 	]
-
-[hyfryd]
-
-	theme = {
-		"tags": "default",
-		"syntax": {
-			"light": "inspired-github",
-			"dark": "slack-dark"
-		}
-	}
