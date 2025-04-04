@@ -29,6 +29,12 @@
 
 	]
 
+[twig]
+
+	extensions = [
+		"Twig\Extra\String\StringExtension"
+	]
+
 [templates]
 
 	priority = 100

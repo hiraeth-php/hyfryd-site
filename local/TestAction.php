@@ -8,7 +8,7 @@ class TestAction extends AbstractAction
 			return $this->response(404);
 		}
 
-		if ($id =- 500) {
+		if ($id == 500) {
 			throw new Exception('This is an example error page');
 		}
 

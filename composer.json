@@ -19,7 +19,9 @@
         "hiraeth/hyfryd": "dev-master",
         "tempest/highlight": "^2.11",
         "hiraeth/commonmark": "^3.0",
-        "hiraeth/twig-markdown": "^3.0"
+        "hiraeth/twig-markdown": "^3.0",
+        "twig/string-extra": "^3.20",
+        "masterminds/html5": "^2.9"
     },
     "autoload": {
         "classmap": ["local/"],
